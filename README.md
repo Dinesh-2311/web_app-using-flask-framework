@@ -47,8 +47,11 @@ Open your browser and go to http://localhost:5000.
 
 7. **screenshots:**
 personal_data form screenshot![alt text](image-1.png)
+
 table screenshot![alt text](<Screenshot 2025-03-14 004936-1-1.png>)
+
 database MYSQL screenshot ![alt text](image.png)
+
 7. **project structure:**
 
 flask_app/
