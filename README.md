@@ -18,7 +18,7 @@ This is a Flask-based web application for managing personal data. It allows user
 
 1. **Clone the repository:**
    git clone (https://github.com/Dinesh-2311/web_app-using-flask-framework)
-   cd personal-data-app
+    personal-data-app
 
  2. **Set up a virtual environment (optional but recommended):**
  python -m venv venv
